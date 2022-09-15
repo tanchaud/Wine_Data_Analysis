@@ -1,4 +1,4 @@
-Wine Data Analysis to predict Wine Quality
+# Wine Data Analysis to predict Wine Quality
 
 Data: The data comprises of chemical composition properties of red and white wine. These properties include metrics that express the wine's acidity, amount of preservatives, sweetness, salinity, texture, pH and alcohol content.
 Detailed information about the dataset can be found in the file named winequality.names. 
